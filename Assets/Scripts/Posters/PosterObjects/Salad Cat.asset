@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9618769407f940343976d55107df06ba, type: 3}
+  m_Name: Salad Cat
+  m_EditorClassIdentifier: 
+  CatName: Salad Cat
+  LocationHint: Puma Park
+  Description: Easily offended. White cat with yellow eyes.
+  MoneyAward: 23
+  TimeLimit: 2
+  CatImage: {fileID: 21300000, guid: 34e855ffe20e07e42a061d840cfd35bf, type: 3}
+  CatImage2: {fileID: 21300000, guid: 6cb5bf316d34b465bb0eeebaa46e12e6, type: 3}
+  ReturnedDialogue: {fileID: 4900000, guid: 727f503746adb7b45ad63edc6a702b31, type: 3}
+  IsUnlocked: 0
+  CatPrefab: {fileID: 1238543103197879403, guid: 350f6cea8bc945147a581624ce5dc2c0,
+    type: 3}
+  posterPrefab: {fileID: 9028155246794336642, guid: 651d9ddbfe4ef6141a80a11901ed1e64,
+    type: 3}
+  posterProgress: 0

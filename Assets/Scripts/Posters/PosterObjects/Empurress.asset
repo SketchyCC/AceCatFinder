@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9618769407f940343976d55107df06ba, type: 3}
+  m_Name: Empurress
+  m_EditorClassIdentifier: 
+  CatName: Empurress
+  LocationHint: Down Clawmark Lane
+  Description: majestic, white creature with a yellow and a blue eye
+  MoneyAward: 77
+  TimeLimit: 1
+  CatImage: {fileID: 21300000, guid: 953266423f7152949843cb1f89aaa6d4, type: 3}
+  CatImage2: {fileID: 21300000, guid: 8554e975e55df45479a044df82285a0f, type: 3}
+  ReturnedDialogue: {fileID: 4900000, guid: 4828fe59459e47e40ae3c3f6a09de026, type: 3}
+  IsUnlocked: 0
+  CatPrefab: {fileID: 1238543103197879403, guid: c714fb3fed1974a37a42098e251639d0,
+    type: 3}
+  posterPrefab: {fileID: 9028155246794336642, guid: 651d9ddbfe4ef6141a80a11901ed1e64,
+    type: 3}
+  posterProgress: 0

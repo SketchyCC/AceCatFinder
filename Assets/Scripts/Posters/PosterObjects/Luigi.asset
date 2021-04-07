@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9618769407f940343976d55107df06ba, type: 3}
+  m_Name: Luigi
+  m_EditorClassIdentifier: 
+  CatName: Luigi
+  LocationHint: Puma Park
+  Description: One side is brown and the other side is orange, odd eyed
+  MoneyAward: 20
+  TimeLimit: 2
+  CatImage: {fileID: 21300000, guid: a28b442a4eaf2054bb248bf58e16a234, type: 3}
+  CatImage2: {fileID: 21300000, guid: 27de5ee8d27db544395f335ce5af963a, type: 3}
+  ReturnedDialogue: {fileID: 4900000, guid: 3c46d3b526c3c2843bc48cc18a0db121, type: 3}
+  IsUnlocked: 0
+  CatPrefab: {fileID: 8126711318276626869, guid: 9541bc50412c6423584630295b6cf0e6,
+    type: 3}
+  posterPrefab: {fileID: 9028155246794336642, guid: 651d9ddbfe4ef6141a80a11901ed1e64,
+    type: 3}
+  posterProgress: 0

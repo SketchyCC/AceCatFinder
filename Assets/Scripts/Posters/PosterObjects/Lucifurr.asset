@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9618769407f940343976d55107df06ba, type: 3}
+  m_Name: Lucifurr
+  m_EditorClassIdentifier: 
+  CatName: Lucifurr
+  LocationHint: Litter Alley
+  Description: A bastard of a cat. Black fur and red glowing eyes.
+  MoneyAward: 666
+  TimeLimit: 6
+  CatImage: {fileID: 21300000, guid: 68beb6fbb70e14e50b1f3d4001a78a9b, type: 3}
+  CatImage2: {fileID: 21300000, guid: a600918e12d63bf44a1ffc38123659a3, type: 3}
+  ReturnedDialogue: {fileID: 4900000, guid: 90f2161f5ec5c124982d61a811239fb4, type: 3}
+  IsUnlocked: 0
+  CatPrefab: {fileID: 1238543103197879403, guid: 26ddd70c1be7347f59716d6d03dcde9b,
+    type: 3}
+  posterPrefab: {fileID: 9028155246794336642, guid: 651d9ddbfe4ef6141a80a11901ed1e64,
+    type: 3}
+  posterProgress: 0

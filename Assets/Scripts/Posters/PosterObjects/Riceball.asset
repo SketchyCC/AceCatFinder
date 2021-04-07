@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9618769407f940343976d55107df06ba, type: 3}
+  m_Name: Riceball
+  m_EditorClassIdentifier: 
+  CatName: Riceball
+  LocationHint: At Market Street
+  Description: A bicolored (white and grey) chonker with gentle brown eyes
+  MoneyAward: 15
+  TimeLimit: 3
+  CatImage: {fileID: 21300000, guid: fb7691a26675b4000a7eb81fee10bec5, type: 3}
+  CatImage2: {fileID: 21300000, guid: f9a336288da0643d6af9f3e62f9d4c46, type: 3}
+  ReturnedDialogue: {fileID: 4900000, guid: 2d7b152770ed4b9469dde56d5cba7c0d, type: 3}
+  IsUnlocked: 0
+  CatPrefab: {fileID: 1238543103197879403, guid: afed540e7be0b4e1085a0218803a52f9,
+    type: 3}
+  posterPrefab: {fileID: 9028155246794336642, guid: 651d9ddbfe4ef6141a80a11901ed1e64,
+    type: 3}
+  posterProgress: 0

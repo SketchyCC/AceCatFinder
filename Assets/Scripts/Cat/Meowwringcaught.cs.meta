@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 707b0812ac3dccc4f973ef86adc5a5b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - catcam: {instanceID: 0}
+  - hiss: {fileID: 8300000, guid: 6e405fd48aa907340b62e3cd08a8cc46, type: 3}
+  - angrymeow: {fileID: 8300000, guid: 01afa52175db6654f89ac0462265efde, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9618769407f940343976d55107df06ba, type: 3}
+  m_Name: Desmond
+  m_EditorClassIdentifier: 
+  CatName: Desmond
+  LocationHint: At the Cafe
+  Description: Russian blue cat, odd eyed
+  MoneyAward: 29
+  TimeLimit: 3
+  CatImage: {fileID: 21300000, guid: e70747a8b389349c4803b6e29d75f3e5, type: 3}
+  CatImage2: {fileID: 21300000, guid: 2e96b29fb0a0942adb86d24708f0580f, type: 3}
+  ReturnedDialogue: {fileID: 4900000, guid: 5a2bbde8b17e8064db67927763c1b024, type: 3}
+  IsUnlocked: 0
+  CatPrefab: {fileID: 8004745597298561080, guid: 0c2d774d8020f4e828f96bc4d0dd9d23,
+    type: 3}
+  posterPrefab: {fileID: 9028155246794336642, guid: 651d9ddbfe4ef6141a80a11901ed1e64,
+    type: 3}
+  posterProgress: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9618769407f940343976d55107df06ba, type: 3}
+  m_Name: Nia
+  m_EditorClassIdentifier: 
+  CatName: Nia
+  LocationHint: Down Clawmark Lane
+  Description: A siamese cat with blue eyes
+  MoneyAward: 25
+  TimeLimit: 3
+  CatImage: {fileID: 21300000, guid: 87d2e1f62fdbe1841b97cc75f2e37a43, type: 3}
+  CatImage2: {fileID: 21300000, guid: 80e5423eb31ead348b83507f29d59b2f, type: 3}
+  ReturnedDialogue: {fileID: 4900000, guid: c803f7526ae1b5748912c019c4e08384, type: 3}
+  IsUnlocked: 0
+  CatPrefab: {fileID: 6533426348141109826, guid: c0d50bd701af34eac989f4854f070541,
+    type: 3}
+  posterPrefab: {fileID: 9028155246794336642, guid: 651d9ddbfe4ef6141a80a11901ed1e64,
+    type: 3}
+  posterProgress: 0

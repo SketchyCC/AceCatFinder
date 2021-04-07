@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9618769407f940343976d55107df06ba, type: 3}
+  m_Name: Mischa
+  m_EditorClassIdentifier: 
+  CatName: Mischa
+  LocationHint: Down Clawmark Lane
+  Description: A dark cat with tortoiseshell pattern and orange eyes, hates cuddles
+  MoneyAward: 40
+  TimeLimit: 1
+  CatImage: {fileID: 21300000, guid: d40754b3933b24fbe9ede6d6ff4f6c90, type: 3}
+  CatImage2: {fileID: 21300000, guid: 7ede81417a50d47a9a4a51e90afd072d, type: 3}
+  ReturnedDialogue: {fileID: 4900000, guid: b6f28f582761c984b86b4ca1f5436663, type: 3}
+  IsUnlocked: 0
+  CatPrefab: {fileID: 1238543103197879403, guid: 64538722cc9f641e4b2b6063f457936f,
+    type: 3}
+  posterPrefab: {fileID: 9028155246794336642, guid: 651d9ddbfe4ef6141a80a11901ed1e64,
+    type: 3}
+  posterProgress: 0
